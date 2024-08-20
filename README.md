@@ -1,6 +1,6 @@
 # Hello, My name is Om. Thanks for stopping by 😄
 
-## 🪪 About Me
+## 🥇 About Me
 I'm a 3rd year computer science student at Ontario Tech University. 🏫
 
 I like to play video games, art, and I like to code. 🎮 🖥️
