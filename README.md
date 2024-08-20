@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, My name is Om 👋
 
-<!--
-**OmSathe/OmSathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a 3rd year computer science student at Ontario Tech University.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, HTML, CSS, Java, C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![OmSathe](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/om-sathe/)
+- [Email](om.sathe0828@gmail.com)
