@@ -2,8 +2,11 @@
 
 ## 🚀 About Me
 I'm a 3rd year computer science student at Ontario Tech University. 🏫
+
 I like to play video games and I like to code. 🎮 🖥️
+
 My goal for the end of the year is to create 2 good public projects 🥅
+
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, Python, HTML, CSS, Java, C++
