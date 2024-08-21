@@ -14,6 +14,9 @@ My goal for the end of the year is to create 2 good public projects 🥅
 ## 📊 GitHub Stats
 ![Om's Github stats](https://github-readme-stats.vercel.app/api?username=OmSathe&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+## 🌘 LeetCode
+- [LeetCode](https://leetcode.com/u/lemanos123/)
+
 ## 📫 How to reach me
 - Email: (om.sathe0828@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/om-sathe/)
