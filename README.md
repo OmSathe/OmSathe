@@ -21,9 +21,9 @@ My goal for the end of the year is to create 2 good public projects 🥅
 - Email: (om.sathe0828@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/om-sathe/)
 
-##✔️ Projects to lookout for!:
+## ✔️ Projects to lookout for!:
 - [Random Pokemon Generator](https://github.com/OmSathe/RandomPokemonGenerator)
 - [Pixelator](https://github.com/OmSathe/Pixelator)
 
-##💻 Projects:
+## 💻 Projects:
 - [Card-Jitsu](https://github.com/aradaynt/Card-Jitsu)
