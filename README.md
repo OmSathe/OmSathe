@@ -23,8 +23,7 @@ My goal for the end of the 2026 is to create 2 good public projects 🥅
 - [LinkedIn](https://www.linkedin.com/in/om-sathe/)
 
 ## ✔️ Projects to lookout for!:
-- [Random Pokemon Generator](https://github.com/OmSathe/RandomPokemonGenerator)
-- [Pixelator](https://github.com/OmSathe/Pixelator)
+- [DataStructure-master](https://github.com/OmSathe/DataStructure-master/tree/main)
 
 ## 💻 Projects:
 - [Card-Jitsu](https://github.com/aradaynt/Card-Jitsu)
