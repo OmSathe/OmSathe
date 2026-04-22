@@ -1,11 +1,11 @@
 # Hello, My name is Om. Thanks for stopping by 😄
 
 ## 🥇 About Me
-I'm a 4th year computer science student at Ontario Tech University. 🏫
+I'm a graduated computer science student from Ontario Tech University. 
 
-I like to play video games, art, and I like to code. 🎮 🖥️
+I like to play video games, art, and I like to code. 
 
-My goal for the end of the 2026 is to create 2 good public projects 🥅
+My goal for the end of the 2026 is to create 2 good public projects 
 
 
 ## 🛠️ Technologies & Tools
@@ -15,6 +15,7 @@ My goal for the end of the 2026 is to create 2 good public projects 🥅
 > ## 📊 GitHub Stats
 > ![Om's Github stats](https://github-readme-stats.vercel.app/api?username=OmSathe&show_icons=true&hide_title=true&count_private=true&hide=prs)
 -->
+
 ## 🌘 LeetCode
 - [LeetCode](https://leetcode.com/u/lemanos123/)
 
